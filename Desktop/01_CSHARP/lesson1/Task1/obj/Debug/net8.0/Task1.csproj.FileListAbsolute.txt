@@ -1,0 +1,14 @@
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/bin/Debug/net8.0/Task1
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/bin/Debug/net8.0/Task1.dll
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/obj/Debug/net8.0/Task1.dll
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/aidanakenzhebekova/Desktop/01_CSHARP/lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
